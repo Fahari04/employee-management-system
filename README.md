@@ -13,7 +13,7 @@
   The system provides secure authentication, employee CRUD operations, filtering and pagination, and a clean interface for managing employee records.</b>
 </p>
 
-A professional full-stack employee management application built with **React**, **Node.js/Express**, and **SQLite**. The system provides secure authentication, employee CRUD operations, filtering and pagination, and a clean interface for managing employee records.
+
 
 ## Table of Contents
 
